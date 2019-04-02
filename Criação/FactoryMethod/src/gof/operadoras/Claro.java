@@ -1,0 +1,16 @@
+package gof.operadoras;
+
+import gof.Operadora;
+
+public class Claro implements Operadora{
+
+	@Override
+	public void ligar() {
+		System.out.println("Ligar - Claro");
+	}
+
+	@Override
+	public void enviarSMS() {
+		System.out.println("Envia SMS - Claro");
+	}	
+}

@@ -19,4 +19,4 @@ Códigos desenvolvidos em sala de aula.
 \# | Data | Padrão
 --- | --- | ---
 01 | 28/03/2019 | Builder
-
+02 | 01/04/2019 | Singleton e Factory Method
