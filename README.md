@@ -22,5 +22,7 @@ Códigos desenvolvidos em sala de aula.
 02 | 01/04/2019 | Singleton e Factory Method
 03 | 02/04/2019 | Abstract Factory
 04 | 08/04/2019 | Prototype
-05 | 10/04/2019 | Adapter
-06 | 29/04/2019 | Decorator
+
+#### <i class="icon-link"></i> **Estrutura**
+01 | 10/04/2019 | Adapter
+02 | 29/04/2019 | Decorator
