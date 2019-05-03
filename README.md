@@ -24,5 +24,7 @@ Códigos desenvolvidos em sala de aula.
 04 | 08/04/2019 | Prototype
 
 #### <i class="icon-link"></i> **Estrutura**
+\# | Data | Padrão
+--- | --- | ---
 01 | 10/04/2019 | Adapter
 02 | 29/04/2019 | Decorator
